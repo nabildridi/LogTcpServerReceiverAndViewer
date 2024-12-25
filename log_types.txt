@@ -38,12 +38,3 @@ Graylog
 } 
 
 
----------------------------------------------------------------------------------------------------
-
-{
-"logType":"ECS",
-"remoteAddress":"/127.0.0.1:57026",
-"timestamp":1732827483863,
-"message":"Started Application in 2.209 seconds (process running for 2.786)",
-"loggerName":"org.nd.primeng.Application",
-"level":"INFO"}
