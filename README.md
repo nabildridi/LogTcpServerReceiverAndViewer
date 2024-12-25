@@ -8,7 +8,7 @@ The project is composed by two parts :
 
 # Important note :
 The project is very basic.
-**It does not persiste log messages or offer a search function**
+**It does not persist log messages or offer a search function**
 
 # Configuration :
 In application.properties we can configure :
