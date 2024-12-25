@@ -6,6 +6,10 @@ The project is composed by two parts :
 - A Tcp server that receives *structured log messages (Logstach, Ecs and Gelf)* from remote applications
 - A web application that displays the received messages
 
+# Important note :
+The project is very basic.
+**It does not persiste log messages or offer a search function**
+
 # Configuration :
 In application.properties we can configure :
 - The Tcp server port with '**logging.server.port**'
