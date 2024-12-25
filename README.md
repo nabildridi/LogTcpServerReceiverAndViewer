@@ -15,7 +15,7 @@ In application.properties we can configure :
 The web interface is accessible with the url :  **http://localhost:{server.port}**
 
 # How to send structured log messages from your applications:
-In your pom.xml import the socket appender :
+In your pom.xml, import the socket appender :
 
     <dependency>
         <groupId>me.moocar</groupId>
