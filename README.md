@@ -56,7 +56,7 @@ In your logback-spring.xml, add the appender and the encoder :
     	<destination>127.0.0.1:{logging.server.port}</destination>
     </appender> 
 
-Note uncomment and comment your preferred format.
+Note : uncomment and comment your preferred format.
 
 
   
