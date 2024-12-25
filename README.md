@@ -1,9 +1,9 @@
 # LogTcpServerReceiverAndViewer
-A Tcp server that receive and display log messages (Structured log formats : Logstach, Ecs and Gelf) from multiple remote applications 
+A Tcp server that receive and display log messages (Structured log formats : Logstach, Elasticsearh and Graylog) from multiple remote applications 
 
 # About the project :
 The project is composed by two parts :
-- A Tcp server that receives *structured log messages (Logstach, Ecs and Gelf)* from remote applications
+- A Tcp server that receives *structured log messages (Logstach, Elasticsearh and Graylog)* from remote applications
 - A web application that displays the received messages
 
 # Important note :
